@@ -1,0 +1,2 @@
+需要运行时直接点击运行tsp_localsearch.mlx或tsp_SimulatedAnnealing.mlx即可。
+程序的初始解随机生成，根据用户的输入选择局部搜索策略，最后在窗口右侧打印出解的长度，并在二维坐标中显示解的路径。

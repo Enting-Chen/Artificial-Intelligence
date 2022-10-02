@@ -1,0 +1,2 @@
+运行象棋游戏的代码为app2.m
+运行前，先将matfiles和images两个文件夹添加到matlab的路径当中
